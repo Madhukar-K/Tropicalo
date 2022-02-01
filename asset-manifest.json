@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Tropicalo/static/css/main.7aa894af.css",
+    "main.js": "/Tropicalo/static/js/main.92ce8369.js",
+    "static/media/meal.mp4": "/Tropicalo/static/media/meal.15985c2668cf40be077b.mp4",
+    "static/media/bg.png": "/Tropicalo/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/findus.png": "/Tropicalo/static/media/findus.585c393ccd3671513743.png",
+    "static/media/welcome.png": "/Tropicalo/static/media/welcome.83b4e75230dd72196c09.png",
+    "static/media/menu.png": "/Tropicalo/static/media/menu.47ff27bb48a8ebfa1ed1.png",
+    "static/media/gallery04.png": "/Tropicalo/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/Tropicalo/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/overlaybg.png": "/Tropicalo/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/laurels.png": "/Tropicalo/static/media/laurels.2efa8a19629c464c7946.png",
+    "static/media/chef.png": "/Tropicalo/static/media/chef.07e388a8d57489fe22ae.png",
+    "static/media/gallery01.png": "/Tropicalo/static/media/gallery01.2192033f16e53f869121.png",
+    "static/media/gallery06.png": "/Tropicalo/static/media/gallery06.008f915d5de251be649f.png",
+    "static/media/gallery05.png": "/Tropicalo/static/media/gallery05.32faf9fef691773589cb.png",
+    "static/media/gallery08.png": "/Tropicalo/static/media/gallery08.ae4ddfcc25952b8ddb83.png",
+    "static/media/beer.png": "/Tropicalo/static/media/beer.e416760e4b9b5a23a251.png",
+    "static/media/gallery07.png": "/Tropicalo/static/media/gallery07.6323dc3567d3a21065b4.png",
+    "static/media/gallery02.png": "/Tropicalo/static/media/gallery02.98bcefc7ca93a8bee696.png",
+    "static/media/tropica.png": "/Tropicalo/static/media/tropica.06a145f1605db998d86d.png",
+    "static/media/G.png": "/Tropicalo/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/sign.png": "/Tropicalo/static/media/sign.11fe7df1319c1b009f14.png",
+    "static/media/logo.png": "/Tropicalo/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/Tropicalo/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/Tropicalo/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/Tropicalo/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/Tropicalo/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/spoon.svg": "/Tropicalo/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "index.html": "/Tropicalo/index.html",
+    "main.7aa894af.css.map": "/Tropicalo/static/css/main.7aa894af.css.map",
+    "main.92ce8369.js.map": "/Tropicalo/static/js/main.92ce8369.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aa894af.css",
+    "static/js/main.92ce8369.js"
+  ]
+}
